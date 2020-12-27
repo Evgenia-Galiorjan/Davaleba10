@@ -126,11 +126,16 @@ nav{
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
+    font-family: 'Poppins';
+
 }
 .contact-flex{
     display: flex;
     align-items: center;
     flex-direction: column;
+    color:#B1B1B1;
+    font-family: 'Poppins';
+
 }
 .ulcontact{
     display: flex;
